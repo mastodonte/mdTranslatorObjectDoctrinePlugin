@@ -1,0 +1,4 @@
+mdTranslatorObjectDoctrinePlugin
+================================
+
+For translator objects
