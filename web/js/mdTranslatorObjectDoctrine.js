@@ -1,6 +1,6 @@
 var index = 0;
 var indexPages = 0;
-var __MD_CONTROLLER_SYMFONY_PLUGIN_TRANSLATOR_OBJECT = '/backend_dev.php';
+var __MD_CONTROLLER_SYMFONY_PLUGIN_TRANSLATOR_OBJECT = '/admin_dev.php';
 
 var mdPluginTranslatorObjectDoctrine = function(options){
 
